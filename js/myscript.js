@@ -12,6 +12,7 @@ controls.enableDamping = true;
 controls.dampingFactor = 0.25;
 controls.enableZoom = true;
 
+
 var keyLight = new THREE.DirectionalLight(new THREE.Color('hsl(30, 100%, 75%)'), 1.0);
 keyLight.position.set(-100, 0, 100);
 
@@ -32,9 +33,9 @@ mtlLoader.load('models/room.mtl', function (materials) {
     objLoader.setMaterials(materials);
     objLoader.load('models/room.obj', function (object) {
     object.position.x -= 30;
-    object.scale.x = 2;
-    object.scale.y = 2;
-    object.scale.z = 2;
+    object.scale.x = 5;
+    object.scale.y = 5;
+    object.scale.z = 5;
     scene.add(object);
     });
 
@@ -66,23 +67,20 @@ var animate = function () {
 animate();
 
 
-var gui;
-gui = new dat.GUI();
+var gui = new dat.GUI();
 
-var parameters = 
+var parameters = new function()
 {
-    x: 30, y: 0, z: 0
-    // scale: 0.05
-    // opacity: 1, 
-    // visible: true,
-    // material: "Phong",
-    // reset: function() { resetCube() }
+    this.x = 30;
+    this.y = 0;
+    this.z = 0;
+    this.scale = 1;
 };
 
 var folder1 = gui.addFolder('Position');
-var itemX = folder1.add( parameters, 'x' ).min(-200).max(200).step(1).listen();
-var itemY = folder1.add( parameters, 'y' ).min(-100).max(100).step(1).listen();
-var itemZ = folder1.add( parameters, 'z' ).min(-200).max(200).step(1).listen();
+var itemX = folder1.add( parameters, 'x', -200, 200).step(1);
+var itemY = folder1.add( parameters, 'y', -200, 200).step(1);
+var itemZ = folder1.add( parameters, 'z', -200, 200).step(1);
 folder1.open();
 
 itemX.onChange(function(value) 
@@ -93,18 +91,9 @@ itemZ.onChange(function(value)
 {   item.position.z = value;   });
 
 
-// var itemOpacity = gui.add( parameters, 'opacity' ).min(0).max(1).step(0.01).name('Opacity').listen();
-// itemOpacity.onChange(function(value)
-// {   item.material.opacity = value;   });
+var itemOpacity = gui.add( parameters, 'scale', 0, 100).step(0.01).name('Scale');
+itemOpacity.onChange(function(value)
+{   item.scale.x = item.scale.y = item.scale.z = 0.05 * value;   });
 
-// var itemMaterial = gui.add( parameters, 'material', [ "Basic", "Lambert", "Phong", "Wireframe" ] ).name('Material Type').listen();
-// itemMaterial.onChange(function(value) 
-// {   updateCube();   });
-
-// var itemVisible = gui.add( parameters, 'visible' ).name('Visible?').listen();
-// itemVisible.onChange(function(value) 
-// {   item.visible = value;   });
-
-// gui.add( parameters, 'reset' ).name("Reset Cube Parameters");
 
 gui.open();
