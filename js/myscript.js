@@ -66,7 +66,6 @@ var animate = function () {
 
 animate();
 
-
 var gui = new dat.GUI();
 
 var parameters = new function()
@@ -83,17 +82,56 @@ var itemY = folder1.add( parameters, 'y', -200, 200).step(1);
 var itemZ = folder1.add( parameters, 'z', -200, 200).step(1);
 folder1.open();
 
+var x = 30, y = 0, z = 0, scale = 1;
+var text;
+
 itemX.onChange(function(value) 
-{   item.position.x = value;   });
+{   
+    item.position.x = value;    
+    x = value;  
+});
 itemY.onChange(function(value) 
-{   item.position.y = value;   });
+{   
+    item.position.y = value;    
+    y = value;  
+});
 itemZ.onChange(function(value) 
-{   item.position.z = value;   });
+{   
+    item.position.z = value;    
+    z = value;  
+});
 
 
 var itemOpacity = gui.add( parameters, 'scale', 0, 100).step(0.01).name('Scale');
 itemOpacity.onChange(function(value)
-{   item.scale.x = item.scale.y = item.scale.z = 0.05 * value;   });
+{   
+    item.scale.x = item.scale.y = item.scale.z = 0.05 * value;   
+    scale = item.scale.x / 5; 
+});
+
+
+function download(filename, text) {
+    var element = document.createElement('a');
+    element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(text));
+    element.setAttribute('download', filename);
+
+    element.style.display = 'none';
+    document.body.appendChild(element);
+
+    element.click();
+
+    document.body.removeChild(element);
+}
+
+// Start file download.
+document.getElementById("btn").addEventListener("click", function(){
+    var text = "{ \"x\" : " + x + ", \"y\" : " + y + ", \"z\" : " + z + ", \"scale\" : " + scale + "}";
+    var filename = "statics.json";
+
+    download(filename, text);
+}, false);
 
 
 gui.open();
+
+

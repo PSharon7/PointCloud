@@ -1,0 +1,897 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"auto\tbackground-size"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"text-de",
+				"text-decoration-line\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"is",
+				"isWord"
+			],
+			[
+				"Tr",
+				"TrieNode"
+			],
+			[
+				"col",
+				"col-centered"
+			],
+			[
+				"row",
+				"row-centered"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"mov",
+				"moveAndDirection"
+			],
+			[
+				"old",
+				"oldX"
+			],
+			[
+				"new",
+				"newX"
+			],
+			[
+				"mo",
+				"moves"
+			],
+			[
+				"ol",
+				"oldY"
+			],
+			[
+				"s_",
+				"s_x"
+			],
+			[
+				"new_",
+				"new_dir"
+			],
+			[
+				"w",
+				"window"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"sna",
+				"snakeY"
+			],
+			[
+				"rand",
+				"random"
+			],
+			[
+				"sn",
+				"snakeMove"
+			],
+			[
+				"snake",
+				"snakeDirection"
+			],
+			[
+				"ran",
+				"random"
+			],
+			[
+				"s",
+				"self"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"m",
+				"main\tmain()"
+			],
+			[
+				"en",
+				"entry_entercode"
+			],
+			[
+				"fas",
+				"fartest"
+			],
+			[
+				"max",
+				"max_change"
+			],
+			[
+				"pro",
+				"pro_run_other"
+			],
+			[
+				"re",
+				"rewards_world"
+			],
+			[
+				"ma",
+				"max_change"
+			],
+			[
+				"max_",
+				"max_change"
+			],
+			[
+				"n",
+				"n_column"
+			],
+			[
+				"n_",
+				"n_row"
+			],
+			[
+				"poli",
+				"policy_world"
+			],
+			[
+				"rew",
+				"rewards_world"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"wall",
+				"wall_grid_pos"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"n_c",
+				"n_col-1"
+			],
+			[
+				"tmp",
+				"tmp_world"
+			],
+			[
+				"grid_world_",
+				"grid_world_3"
+			],
+			[
+				"pro_",
+				"pro_walk_other"
+			],
+			[
+				"move",
+				"moves_pvs"
+			],
+			[
+				"pe",
+				"prev_world"
+			],
+			[
+				"gri",
+				"grid_world"
+			],
+			[
+				"grid",
+				"grid_world"
+			],
+			[
+				"pre",
+				"prev_world"
+			],
+			[
+				"gr",
+				"grid_world"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"de",
+				"deepcopy"
+			],
+			[
+				"as",
+				"as_array"
+			],
+			[
+				"iter",
+				"iter_cnt"
+			],
+			[
+				"po",
+				"policy_len"
+			],
+			[
+				"u",
+				"Up"
+			],
+			[
+				"wa",
+				"walkdown"
+			],
+			[
+				"wal",
+				"walkup"
+			],
+			[
+				"wl",
+				"walkdown"
+			],
+			[
+				"dic",
+				"discount"
+			],
+			[
+				"cl",
+				"clock"
+			],
+			[
+				"tem",
+				"teams"
+			],
+			[
+				"team",
+				"team"
+			],
+			[
+				"te",
+				"teams"
+			],
+			[
+				"tea",
+				"teamContinent"
+			],
+			[
+				"teams",
+				"teamsConfederation"
+			],
+			[
+				"c",
+				"continentCons"
+			],
+			[
+				"pot",
+				"potCons"
+			],
+			[
+				"potc",
+				"potCons"
+			],
+			[
+				"g",
+				"groupCons"
+			],
+			[
+				"f",
+				"f_out"
+			],
+			[
+				"bo",
+				"boardLimit"
+			],
+			[
+				"al",
+				"alpha"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"cur",
+				"cur_board"
+			],
+			[
+				"next",
+				"nextState"
+			],
+			[
+				"ne",
+				"nextValue"
+			],
+			[
+				"con",
+				"convertExp"
+			],
+			[
+				"nex",
+				"nextMove"
+			],
+			[
+				"b",
+				"board"
+			],
+			[
+				"alpha",
+				"alphaBeta"
+			],
+			[
+				"min",
+				"minValue"
+			],
+			[
+				"state",
+				"stateDict"
+			],
+			[
+				"pla",
+				"player"
+			],
+			[
+				"node",
+				"nodeGenerated"
+			],
+			[
+				"pass",
+				"nodePass"
+			],
+			[
+				"start",
+				"startState"
+			],
+			[
+				"curd",
+				"curDepth"
+			],
+			[
+				"has",
+				"hasLegalMove"
+			],
+			[
+				"curs",
+				"curState"
+			],
+			[
+				"sta",
+				"stateQueue"
+			],
+			[
+				"l",
+				"legalMoves"
+			],
+			[
+				"legal",
+				"legalMoves"
+			],
+			[
+				"AB",
+				"AB_State"
+			],
+			[
+				"cal",
+				"calcLegalMoves"
+			],
+			[
+				"em",
+				"enemy"
+			],
+			[
+				"ca",
+				"calcLegalMoves"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"cu",
+				"curPos"
+			],
+			[
+				"B",
+				"Board"
+			],
+			[
+				"d",
+				"drawBoard"
+			],
+			[
+				"pl",
+				"player"
+			],
+			[
+				"cir",
+				"circleNum"
+			],
+			[
+				"star",
+				"starNum"
+			],
+			[
+				"csv",
+				"csvFile"
+			],
+			[
+				"v",
+				"varianceV"
+			],
+			[
+				"me",
+				"median"
+			],
+			[
+				"va",
+				"variance"
+			],
+			[
+				"cs",
+				"csvfile"
+			],
+			[
+				"o",
+				"orderedDic"
+			],
+			[
+				"co",
+				"column1"
+			],
+			[
+				"list",
+				"list1"
+			],
+			[
+				"sear",
+				"search_info"
+			],
+			[
+				"se",
+				"search_info"
+			],
+			[
+				"icon",
+				"icon-size"
+			],
+			[
+				"K",
+				"KeywordName"
+			],
+			[
+				"Author",
+				"AuthorName"
+			],
+			[
+				"arr",
+				"array\t$… = array (…)"
+			],
+			[
+				"value",
+				"valueNum"
+			],
+			[
+				"valu",
+				"valueNum"
+			],
+			[
+				"val",
+				"valueNum"
+			],
+			[
+				"temp",
+				"tempValue"
+			],
+			[
+				"point",
+				"pointInterval"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"tet",
+				"text-decoration"
+			],
+			[
+				"bor",
+				"border-style"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 38,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"j",
+				"Set Syntax: JSON"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/Sharon/Library/Application Support/Sublime Text 3/Packages/User/SublimeServer.sublime-settings",
+		"/Users/Sharon/Documents/Code/GitHub/PointCloudWork/index.html",
+		"/Users/Sharon/Desktop/PointCloudWork/index.html",
+		"/Users/Sharon/Desktop/PointCloudWork/README.md",
+		"/Users/Sharon/Desktop/PointCloudWork/LICENSE",
+		"/Users/Sharon/Documents/Code/GitHub/PointCloudWork/js/myscript.js",
+		"/Users/Sharon/Desktop/readme",
+		"/Users/Sharon/Downloads/ee450/Makefile",
+		"/Users/Sharon/Downloads/ee450/README",
+		"/Users/Sharon/Downloads/ee450_zhilinli_session2/README",
+		"/Applications/XAMPP/xamppfiles/etc/original/httpd.conf",
+		"/Applications/MAMP/conf/apache/original/httpd.conf",
+		"/Applications/XAMPP/xamppfiles/apache2/conf/httpd.conf",
+		"/Applications/XAMPP/xamppfiles/etc/httpd.conf",
+		"/Users/Sharon/.bitnami/stackman/machines/xampp/volumes/root/apache2/conf/httpd.conf",
+		"/Users/Sharon/Desktop/Archive 450/socket/client.c",
+		"/Users/Sharon/Desktop/Archive 450/socket/README",
+		"/Users/Sharon/Downloads/cocoon/html/portfolio.html",
+		"/Users/Sharon/Desktop/Archive 450/socket/EE450 Socket Programming Project_Fall_2016 (1).pdf",
+		"/Users/Sharon/Desktop/task.md",
+		"/Users/Sharon/Downloads/bootstrap-4.0.0-dist/css/bootstrap.min.css",
+		"/Users/Sharon/Documents/Code/GitHub/PSharon7.github.io/css/style.css",
+		"/Users/Sharon/Documents/Code/GitHub/PSharon7.github.io/index.html",
+		"/Users/Sharon/.bitnami/stackman/machines/xampp/volumes/root/etc/extra/httpd-xampp.conf",
+		"/Applications/XAMPP/xamppfiles/etc/extra/httpd-xampp.conf",
+		"/Users/Sharon/Documents/Code/GitHub/PSharon7.github.io/css/temp2.css",
+		"/Users/Sharon/Documents/Code/GitHub/PSharon7.github.io/css/temp.css",
+		"/Users/Sharon/Documents/Code/GitHub/PSharon7.github.io/css/temp2",
+		"/Users/Sharon/Documents/Code/GitHub/PSharon7.github.io/js/home.js",
+		"/Users/Sharon/Desktop/Instant/css/style.css",
+		"/Users/Sharon/Desktop/Instant/index.html",
+		"/Users/Sharon/Desktop/Sharon/js/home.js",
+		"/Users/Sharon/Desktop/Sharon/index.html",
+		"/Users/Sharon/Desktop/Sharon/css/style.css",
+		"/Users/Sharon/Desktop/Sharon/js/main.js",
+		"/Users/Sharon/Desktop/Sharon/contactform/contactform.php",
+		"/Users/Sharon/Desktop/Archive 450/socket/aws.c",
+		"/Users/Sharon/Desktop/Trie.cpp",
+		"/Users/Sharon/Desktop/Intern/GOA/line.cpp",
+		"/storeAndHome.cpp",
+		"/Users/Sharon/Desktop/hello_world.py",
+		"/Users/Sharon/Downloads/工具/代码/java/androidsdk/sources/android-23/android/location/CountryDetector.java",
+		"/Users/Sharon/Desktop/1.html",
+		"/Users/Sharon/Desktop/index.html",
+		"/Users/Sharon/Downloads/colmap-3.5/scripts/shell/index.html",
+		"/Users/Sharon/Downloads/colmap-3.5/scripts/shell/colmap.bat",
+		"/Users/Sharon/Downloads/colmap-3.5/scripts/shell/run_tests.bat",
+		"/Users/Sharon/Downloads/VisualSFM_OS_X_Installer-master/vsfm/makefile",
+		"/Users/Sharon/Downloads/VisualSFM_OS_X_Installer-master/vsfm_os_x_installer.sh",
+		"/Users/Sharon/Downloads/VisualSFM_OS_X_Installer-master/README.md",
+		"/Users/Sharon/Downloads/VisualSFM_OS_X/vsfm_os_x_installer.sh",
+		"/Users/Sharon/Downloads/VisualSFM_OS_X/vsfm/makefile",
+		"/Users/Sharon/Downloads/VisualSFM_OS_X/vsfm/README",
+		"/Users/Sharon/Desktop/bs/Astarhu.py",
+		"/Users/Sharon/Documents/Code/GitHub/test/config.json",
+		"/Users/Sharon/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/Sharon/Documents/Code/GitHub/test/config-template.json",
+		"/Users/Sharon/Documents/Code/GitHub/test/new.json",
+		"/Users/Sharon/Documents/Code/GitHub/test/old.json",
+		"/Users/Sharon/Documents/Code/GitHub/FileOfPrivate/json.json",
+		"/Users/Sharon/Desktop/bs/main.py",
+		"/Users/Sharon/Desktop/bs/tempandhumi.py",
+		"/Users/Sharon/Desktop/bs/index.html",
+		"/Users/Sharon/Desktop/bs/main.css",
+		"/Users/Sharon/Desktop/bs/index.tpl",
+		"/Users/Sharon/Desktop/胡胡毕设/Astarhu.py",
+		"/Users/Sharon/Desktop/胡胡毕设/main.py",
+		"/Users/Sharon/Desktop/胡胡毕设/tempandhumi.py",
+		"/Users/Sharon/Desktop/胡胡毕设/index.tpl",
+		"/Users/Sharon/Desktop/index.tpl",
+		"/Users/Sharon/Desktop/main.py",
+		"/Users/Sharon/Downloads/webcontrol/main.py",
+		"/Users/Sharon/Desktop/control.py",
+		"/Users/Sharon/Desktop/Astar1.py",
+		"/Users/Sharon/Desktop/1.py",
+		"/Users/Sharon/Documents/Code/GitHub/Snake-Game/snake.py",
+		"/Users/Sharon/Documents/Code/GitHub/Snake-Game/snake",
+		"/Users/Sharon/Documents/Code/GitHub/Exercise/Leetcode/KMP.cpp",
+		"/Users/Sharon/Desktop/tryonetry.py",
+		"/Users/Sharon/Documents/Acdemic/交大/毕设/Design/Assets/Model/AddModel.cs",
+		"/Users/Sharon/Documents/Code/GitHub/Exercise/Leetcode/3.cpp",
+		"/Users/Sharon/Documents/Code/GitHub/Exercise/Leetcode/2.cpp",
+		"/Users/Sharon/Documents/Code/GitHub/Exercise/Leetcode/1.cpp",
+		"/Users/Sharon/Desktop/Sample_test_cases/temp.cpp",
+		"/Users/Sharon/Desktop/Sample_test_cases/hw3cs561s2018.py",
+		"/Users/Sharon/Desktop/Sample_test_cases/heapify",
+		"/Users/Sharon/Desktop/Sample_test_cases/hw3cs561s2018 version 1 (no class).py",
+		"/Users/Sharon/Desktop/Sample_test_cases/hw3cs561s2018 class ver2.py",
+		"/Users/Sharon/Desktop/Sample_test_cases/1.py",
+		"/Users/Sharon/Desktop/Sample_test_cases/hw3cs561s2018的副本.py",
+		"/Users/Sharon/Desktop/Sample_test_cases/hw3cs561s2018的副本 2.py",
+		"/Users/Sharon/Documents/Code/GitHub/Acemap/app/topic-tree/css/Icicle.css",
+		"/Users/Sharon/Desktop/Sample_test_cases/hw2cs561s2018.py",
+		"/Users/Sharon/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/7c48a32e9a5ba97a779e1907d379e164/Message/MessageTemp/4b6a42c1f5481f462c582ead9fb32db9/File/Astar.c",
+		"/Users/Sharon/Desktop/CSCI561/HW/HW1/code/hw1cs561s2018.py",
+		"/Users/Sharon/Desktop/CSCI561/HW/HW1/code/hw1cs561s2018 OPT.py",
+		"/Users/Sharon/Downloads/HW1 and Sample  Cases/test_v2.0/hw1cs561s2017.py",
+		"/Users/Sharon/Desktop/hw1/hw1cs561s2018.py",
+		"/Users/Sharon/Desktop/hw1/hw1cs561s2018的副本.py",
+		"/Users/Sharon/Desktop/hw1/1.py",
+		"/Users/Sharon/Desktop/hw1cs561s2018.py",
+		"/Users/Sharon/Desktop/a.py",
+		"/Users/Sharon/Documents/Code/Java/AP 1/Percolation.java",
+		"/Users/Sharon/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Sharon/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Sharon/Desktop/毕设/Design/Assets/Search/Network.cs",
+		"/Users/Sharon/Desktop/Design/Assets/SpeechRcg/SpeechRecognize.cs",
+		"/Users/Sharon/Downloads/speechstt/SppechsTT/SppechsTT/Form1.cs",
+		"/Users/Sharon/Downloads/speechstt/SppechsTT/SppechsTT/Program.cs",
+		"/Users/Sharon/Downloads/Voice.cs",
+		"/Users/Sharon/Downloads/UnityVoice/Assets/Test.cs",
+		"/Users/Sharon/Desktop/Design/Assets/Mine/Scripts/AlgorithmTest.cs",
+		"/Users/Sharon/Desktop/Design/Assets/Search/Network.cs",
+		"/Users/Sharon/Desktop/Design/Assets/Search/HttpState.cs",
+		"/Users/Sharon/Desktop/Design/Assets/Mine/Scripts/Region.cs",
+		"/Users/Sharon/Desktop/Design/Assets/Mine/Scripts/Smooth/MeshUtils.cs",
+		"/Users/Sharon/Desktop/Design/Assets/Mine/Scripts/CartoonModel.cs",
+		"/Users/Sharon/Desktop/Design/Assets/Model/AddModel.cs",
+		"/Users/Sharon/Desktop/Design/Assets/SpeechRcg/STT.cs",
+		"/Users/Sharon/Downloads/基于Android平台的语音控制系统的设计与实现_邓阳.caj",
+		"/Users/Sharon/Documents/Code/Unity/Design/Assets/Search/Network.cs",
+		"/Users/Sharon/Desktop/搜索/Network.cs",
+		"/Users/Sharon/Desktop/Network1.cs",
+		"/Users/Sharon/Documents/Code/Unity/Mod/Assets/Scripts/CartoonModeling/OperationManager.cs",
+		"/Users/Sharon/Documents/Code/Unity/Mod/Assets/Scripts/CartoonModeling/CartoonModelManager.cs",
+		"/Users/Sharon/Documents/Code/Unity/Mod/Assets/Scripts/CartoonModeling/CartoonModelCopy.cs",
+		"/Users/Sharon/Documents/Code/Unity/Mod/Assets/Scripts/CartoonModeling/CartoonModel.cs",
+		"/Users/Sharon/Documents/Code/Unity/Mod/Assets/Scripts/CartoonModeling/AddCartoonTargetManager.cs"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 38,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 302.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"project": "PointCloudWork.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
